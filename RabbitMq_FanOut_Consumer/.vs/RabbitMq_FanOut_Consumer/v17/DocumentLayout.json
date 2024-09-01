@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\singh\\source\\repos\\Rabbit_MQ\\RabbitMq_FanOut_Consumer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC33635-AB23-4CA3-BE84-3F588FB33AD2}|RabbitMq_FanOut_Consumer\\RabbitMq_FanOut_Consumer.csproj|c:\\users\\singh\\source\\repos\\rabbit_mq\\rabbitmq_fanout_consumer\\rabbitmq_fanout_consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC33635-AB23-4CA3-BE84-3F588FB33AD2}|RabbitMq_FanOut_Consumer\\RabbitMq_FanOut_Consumer.csproj|solutionrelative:rabbitmq_fanout_consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\singh\\source\\repos\\Rabbit_MQ\\RabbitMq_FanOut_Consumer\\RabbitMq_FanOut_Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "RabbitMq_FanOut_Consumer\\Program.cs",
+              "ToolTip": "C:\\Users\\singh\\source\\repos\\Rabbit_MQ\\RabbitMq_FanOut_Consumer\\RabbitMq_FanOut_Consumer\\Program.cs",
+              "RelativeToolTip": "RabbitMq_FanOut_Consumer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:34:55.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

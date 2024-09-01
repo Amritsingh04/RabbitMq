@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+xFWEoDbkhwWE5DbsNsFc++L+AceUN4fuLbyRJMKtjHtQLIJX4S5OiJKc/8zG45Zn0GVsrBDyF3aoisgWd+afg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\singh\\source\\repos\\Rabbit_MQ\\RabbitMq_FanOut_Consumer\\RabbitMq_FanOut_Consumer\\RabbitMq_FanOut_Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\singh\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\singh\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\singh\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

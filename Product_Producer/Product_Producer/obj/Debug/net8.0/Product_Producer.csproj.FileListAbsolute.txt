@@ -1,0 +1,17 @@
+C:\Users\singh\source\repos\Rabbit_MQ\Product_Producer\Product_Producer\bin\Debug\net8.0\Product_Producer.exe
+C:\Users\singh\source\repos\Rabbit_MQ\Product_Producer\Product_Producer\bin\Debug\net8.0\Product_Producer.deps.json
+C:\Users\singh\source\repos\Rabbit_MQ\Product_Producer\Product_Producer\bin\Debug\net8.0\Product_Producer.runtimeconfig.json
+C:\Users\singh\source\repos\Rabbit_MQ\Product_Producer\Product_Producer\bin\Debug\net8.0\Product_Producer.dll
+C:\Users\singh\source\repos\Rabbit_MQ\Product_Producer\Product_Producer\bin\Debug\net8.0\Product_Producer.pdb
+C:\Users\singh\source\repos\Rabbit_MQ\Product_Producer\Product_Producer\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\singh\source\repos\Rabbit_MQ\Product_Producer\Product_Producer\obj\Debug\net8.0\Product_Producer.csproj.AssemblyReference.cache
+C:\Users\singh\source\repos\Rabbit_MQ\Product_Producer\Product_Producer\obj\Debug\net8.0\Product_Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\singh\source\repos\Rabbit_MQ\Product_Producer\Product_Producer\obj\Debug\net8.0\Product_Producer.AssemblyInfoInputs.cache
+C:\Users\singh\source\repos\Rabbit_MQ\Product_Producer\Product_Producer\obj\Debug\net8.0\Product_Producer.AssemblyInfo.cs
+C:\Users\singh\source\repos\Rabbit_MQ\Product_Producer\Product_Producer\obj\Debug\net8.0\Product_Producer.csproj.CoreCompileInputs.cache
+C:\Users\singh\source\repos\Rabbit_MQ\Product_Producer\Product_Producer\obj\Debug\net8.0\Product_.5127977E.Up2Date
+C:\Users\singh\source\repos\Rabbit_MQ\Product_Producer\Product_Producer\obj\Debug\net8.0\Product_Producer.dll
+C:\Users\singh\source\repos\Rabbit_MQ\Product_Producer\Product_Producer\obj\Debug\net8.0\refint\Product_Producer.dll
+C:\Users\singh\source\repos\Rabbit_MQ\Product_Producer\Product_Producer\obj\Debug\net8.0\Product_Producer.pdb
+C:\Users\singh\source\repos\Rabbit_MQ\Product_Producer\Product_Producer\obj\Debug\net8.0\Product_Producer.genruntimeconfig.cache
+C:\Users\singh\source\repos\Rabbit_MQ\Product_Producer\Product_Producer\obj\Debug\net8.0\ref\Product_Producer.dll
